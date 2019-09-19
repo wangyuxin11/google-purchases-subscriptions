@@ -14,7 +14,7 @@ google订阅开发文档：https://developers.google.cn/android-publisher/api-re
 设置 API 访问客户端：https://developers.google.cn/android-publisher/getting_started#setting_up_api_access_clients
 
 
-对应的开发者账号然后google API 找到订阅的API 授权给该账号,然后生成私钥文件
+	对应的开发者账号然后google API 找到订阅的API 授权给该账号,然后生成私钥文件
 
 使用入门：https://developers.google.cn/android-publisher/getting_started#setting_up_api_access_clients
           创建新的 API 项目
